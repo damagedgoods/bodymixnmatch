@@ -1,6 +1,8 @@
 # Body Mix n' Match
 
-Illustrator script to generate multiple combinations of different character parts
+Illustrator script to generate multiple combinations using different character parts.
+
+![muñecos](https://raw.githubusercontent.com/damagedgoods/bodymixnmatch/master/_resources/mu%C3%B1ecos.png)
 
 # Instructions
 
@@ -9,9 +11,6 @@ Just edit the groups head1, head2, body1, body2, etc. and replace them with your
 You can change the numbers of items in the "numBichos" variable in bodies.jsx
 
 You can also check the video tutorial in the root directory.
-
-![muñecos](https://raw.githubusercontent.com/damagedgoods/bodymixnmatch/master/_resources/mu%C3%B1ecos.png)
-
 
 # Support
 
