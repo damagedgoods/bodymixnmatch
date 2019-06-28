@@ -6,7 +6,7 @@ Illustrator script to generate multiple combinations using different character p
 
 # Instructions
 
-Just edit the groups head1, head2, body1, body2, etc. and replace them with your own designs. Make sure there are no repeated group names. Once you are finished, run the script: "File > Script > Other script..." (or something like that) and select src/bodies.jsx.
+Open src/bodies.ai and edit the groups head1, head2, body1, body2, etc, replacing them with your own designs. Make sure there are no repeated group names. Once you are finished, run the script: "File > Script > Other script..." (or something like that) and select src/bodies.jsx.
 
 You can change the numbers of items in the "numBichos" variable in bodies.jsx
 
