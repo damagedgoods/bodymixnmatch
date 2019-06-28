@@ -10,7 +10,7 @@ You can change the numbers of items in the "numBichos" variable in bodies.jsx
 
 You can also check the video tutorial in the root directory.
 
-[[https://github.com/damagedgoods/bodymixnmatch/test.png|alt=tutorial]]
+[[https://github.com/damagedgoods/bodymixnmatch/resources/muñecos.png|alt=tutorial]]
 
 
 # Support
